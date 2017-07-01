@@ -11,8 +11,7 @@ class List
 {
 	private:
 	node *head;
-	node *tail;	
-		
+	node *tail;		
 	public:
 
 	node* get_head()
